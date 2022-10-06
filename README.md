@@ -1,5 +1,5 @@
 # Text Editor Starter Code
-his Text Editor runs in the browser. This app is a single-page application that
+This Text Editor runs in the browser. This app is a single-page application that
 meets the PWA criteria. Additionally, it feature a number of data persistence techniques 
 that serve as redundancies in case one of the options is not supported by the browser.
 This application will also function offline. This application uses an existing application and 
