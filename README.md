@@ -8,4 +8,4 @@ a package called 'idb' which is a lighweight wrapper around the IndexedDB API. I
 a number of methods that are useful for storing and retrieving data, and it is used by 
 companies like Geogle and Mozilla.
 
-https://git.heroku.com/arcane-savannah-07746.git
+ 
